@@ -198,5 +198,5 @@ This project strengthened my understanding of operating systems and systems prog
 
 ## Author
 
-Maurice Murray  
+Geo Murray  
 Software Engineering Student at Drexel University
